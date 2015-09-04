@@ -91,5 +91,5 @@ set expandtab
 set smarttab
 set clipboard=unnamed
 "set background=dark
-"colorscheme solarized
+colorscheme molokai
 
